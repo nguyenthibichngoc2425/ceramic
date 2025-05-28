@@ -1,0 +1,32 @@
+.pastel-footer {
+  background-color: #fce4ec; /* pastel pink */
+  color: #6d4c41; /* nâu nhẹ, dễ nhìn */
+}
+
+.pastel-footer h5 {
+  color: #c2185b; /* hồng đậm hơn cho điểm nhấn */
+}
+
+.pastel-footer a {
+  color: #6d4c41;
+  text-decoration: none;
+}
+
+.pastel-footer a:hover {
+  color: #ad1457;
+  text-decoration: underline;
+}
+
+.pastel-footer hr {
+  border-color: #f8bbd0;
+}
+
+.pastel-footer i {
+  margin-right: 8px;
+  color: #c2185b;
+  font-size: 1.1rem;
+}
+
+.pastel-footer .bi {
+  font-size: 1.2rem;
+}
