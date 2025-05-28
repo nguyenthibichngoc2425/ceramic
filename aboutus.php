@@ -1,4 +1,4 @@
-<?php require_once('header.php'); ?>
+<?php include_once 'includes/header.php'; ?>
 
 <section class="py-5">
   <div class="container">
@@ -27,4 +27,4 @@
   </div>
 </section>
 
-<?php require_once('footer.php'); ?>
+<?php include_once 'includes/footer.php'; ?>

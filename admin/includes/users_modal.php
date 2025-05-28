@@ -24,19 +24,13 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="firstname" class="col-sm-3 control-label">Firstname</label>
+                    <label for="fullname" class="col-sm-3 control-label">Fullname</label>
 
                     <div class="col-sm-9">
-                      <input type="text" class="form-control" id="firstname" name="firstname" required>
+                      <input type="text" class="form-control" id="fullname" name="fullname" required>
                     </div>
                 </div>
-                <div class="form-group">
-                    <label for="lastname" class="col-sm-3 control-label">Lastname</label>
-
-                    <div class="col-sm-9">
-                      <input type="text" class="form-control" id="lastname" name="lastname" required>
-                    </div>
-                </div>
+               
                 <div class="form-group">
                     <label for="address" class="col-sm-3 control-label">Address</label>
 
